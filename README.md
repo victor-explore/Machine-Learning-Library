@@ -4,8 +4,8 @@
 
 ### Playlists/Courses
 
-- [Deep Learning](https://www.youtube.com/playlist?list=PL_iWQOsE6TfVmKkQHucjPAoRtIJYt8a5A) by UC Berkeley
-- [Neural networks](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi) by 3blue1brown
+- [Deep Learningby UC Berkeley](https://www.youtube.com/playlist?list=PL_iWQOsE6TfVmKkQHucjPAoRtIJYt8a5A)
+- [Neural networks by 3blue1brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
 - [Stanford CS224N Natural Language](https://www.youtube.com/playlist?list=PLoROMvodv4rOaMFbaqxPDoLWjDaRAdP9D)
 - [Building Neural Networks from Scratch](https://www.youtube.com/playlist?list=PLPTV0NXA_ZSj6tNyn_UadmUeU3Q3oR-hu)
 - [Deep Generative Models](https://www.youtube.com/playlist?list=PL2UML_KCiC0UPzjW9BjO-IW6dqliu9O4B)
@@ -17,26 +17,26 @@
 - [Stanford CS236: Deep Generative Models](https://www.youtube.com/playlist?list=PLoROMvodv4rPOWA-omMM6STXaWW4FvJT8)
 - [Neural Networks Demystified](https://www.youtube.com/playlist?list=PLiaHhY2iBX9hdHaRr6b7XevZtgZRa1PoU)
 - [Applied Machine Learning](https://www.youtube.com/playlist?list=PL_pVmAaAnxIRnSw6wiCpSvshFyCREZmlM)
-- [Deep Learning](https://www.youtube.com/@CodeEmporium/playlists) by Code Emporium
+- [Deep Learning by Code Emporium](https://www.youtube.com/@CodeEmporium/playlists)
 - [Full Stack Deep Learning - Spring](https://www.youtube.com/playlist?list=PL1T8fO7ArWlcWg04OgNiJy91PywMKT2lv)
 - [Stanford XCS224U: Natural Language Processing](https://www.youtube.com/playlist?list=PLoROMvodv4rOwvldxftJTmoR3kRcWkJBp)
-- [Deep Learning](https://www.youtube.com/watch?v=zxagGtF9MeU&list=PLblh5JKOoLUIxGDQs4LFFD--41Vzf-ME1) by Josh Starmer
+- [Deep Learning by Josh Starmer](https://www.youtube.com/watch?v=zxagGtF9MeU&list=PLblh5JKOoLUIxGDQs4LFFD--41Vzf-ME1)
 - [Deep Learning With PyTorch - Full Course](https://www.youtube.com/watch?v=c36lUUr864M&t=7868s)
-- [Deep Learning Architectures](https://www.youtube.com/playlist?list=PL1v8zpldgH3pXDttKKp8mlVKDitxsYDAp) by Yannic Kilcher
+- [Deep Learning Architectures by Yannic Kilcher](https://www.youtube.com/playlist?list=PL1v8zpldgH3pXDttKKp8mlVKDitxsYDAp)
 - [Stanford CS224N: Natural Language Processing with Deep Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rMFqRtEuo6SGjY4XbRIVRd4)
-- [CS231n](https://www.youtube.com/playlist?list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC) by Andrej Karpathy
-- [Selected topics in Deep Learning](https://www.youtube.com/playlist?list=PLz4ZBoYqCPXrd22wuOquY5ZGzZMk8iT62) by DeepBean
+- [CS231n by Andrej Karpathy](https://www.youtube.com/playlist?list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC)
+- [Selected topics in Deep Learning by DeepBean](https://www.youtube.com/playlist?list=PLz4ZBoYqCPXrd22wuOquY5ZGzZMk8iT62)
 - [MIT 6.801 Machine Vision](https://www.youtube.com/playlist?list=PLUl4u3cNGP63pfpS1gV5P9tDxxL_e4W8O)
-- [Deep Learning](https://www.youtube.com/playlist?list=PLeM4O8deP8GO3vIx_9eboO9tVpUKHYqRg) by Prof Bryce
+- [Deep Learning by Prof Bryce](https://www.youtube.com/playlist?list=PLeM4O8deP8GO3vIx_9eboO9tVpUKHYqRg)
 - [Convolutional Neural Networks](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
 - [Meta Learning: Deep Learning Guide](https://studylib.net/doc/26113326/radek-osmulski---meta-learning--how-to-learn-deep-learnin...)
-- [Introduction to Deep Learning](https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI) by MIT
+- [Introduction to Deep Learning by MIT](https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI)
 - [LLM Bootcamp](https://www.youtube.com/playlist?list=PL1T8fO7ArWleyIqOy37OVXsP4hFXymdOZ)
-- [Backpropagation](https://www.youtube.com/playlist?list=PLeM4O8deP8GNeIfClLq1tOZS0HXjr7knu)
-- [Deep Learning](https://www.youtube.com/@howardjeremyp/playlists) by Jeremy Howard
-- [CS229 Lecture Notes](https://cs229.stanford.edu/main_notes.pdf) - Andrew Ng and Tengyu Ma
+- [Backpropagation by Prof Bryce](https://www.youtube.com/playlist?list=PLeM4O8deP8GNeIfClLq1tOZS0HXjr7knu)
+- [Deep Learning by Jeremy Howard](https://www.youtube.com/@howardjeremyp/playlists)
+- [CS229 Lecture Notes by Andrew Ng and Tengyu Ma](https://cs229.stanford.edu/main_notes.pdf)
 - [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/)
-- [Natural Language Processing](https://www.youtube.com/playlist?list=PL1v8zpldgH3pQwRz1FORZdChMaNZaR3pu) by Yannic Kilcher
+- [Natural Language Processing by Yannic Kilcher](https://www.youtube.com/playlist?list=PL1v8zpldgH3pQwRz1FORZdChMaNZaR3pu)
 - [Stanford CS224W Machine Learning with Graphs](https://www.youtube.com/playlist?list=PLoROMvodv4rOP-ImU-O1rYRg2RFxomvFp)
 - [Deep Learning and Generative Models](https://www.youtube.com/playlist?list=PLTKMiZHVd_2KJtIXOW0zFhFfBaJJilH51)
 - [Full Stack Deep Learning](https://fullstackdeeplearning.com/course/2022/)
@@ -47,22 +47,22 @@
 - [Deep Learning](https://www.youtube.com/playlist?list=PLyqSpQzTE6M9gCgajvQbc68Hk_JKGBAYT)
 - [Full Stack Deep Learning](https://www.youtube.com/playlist?list=PL1T8fO7ArWleMMI8KPJ_5D5XSlovTW_Ur)
 - [Modern computer vision](https://www.youtube.com/playlist?list=PLyqSpQzTE6M8X3Veh5ijSQ2UGFFEZIpKf)
-- [The Complete Mathematics of Neural Networks and Deep Learning](https://www.youtube.com/watch?v=Ixl3nykKG9M) by Adam Dhalla
-- [Deep Learning for Computer Vision](https://www.youtube.com/playlist?list=PLyqSpQzTE6M_PI-rIz4O1jEgffhJU9GgG) by IIT Madras
+- [The Complete Mathematics of Neural Networks and Deep Learning by Adam Dhalla](https://www.youtube.com/watch?v=Ixl3nykKG9M)
+- [Deep Learning for Computer Vision by IIT Madras](https://www.youtube.com/playlist?list=PLyqSpQzTE6M_PI-rIz4O1jEgffhJU9GgG)
 - [Deep Learning Book Companion Videos](https://www.youtube.com/playlist?list=PLsXu9MHQGs8df5A4PzQGw-kfviylC-R9b)
-- [Deep Learning](https://www.youtube.com/playlist?list=PLdxQ7SoCLQANQ9fQcJ0wnnTzkFsJHlWEj) by Ahlad Kumar
+- [Deep Learning by Ahlad Kumar](https://www.youtube.com/playlist?list=PLdxQ7SoCLQANQ9fQcJ0wnnTzkFsJHlWEj)
 - [Group Equivariant Deep Learning](https://www.youtube.com/playlist?list=PL8FnQMH2k7jzPrxqdYufoiYVHim8PyZWd)
-- [Machine Learning](https://www.youtube.com/playlist?list=PL8FnQMH2k7jzhtVYbKmvrMyXDYMmgjj_n) by Erik Bekkers
+- [Machine Learning by Erik Bekkers](https://www.youtube.com/playlist?list=PL8FnQMH2k7jzhtVYbKmvrMyXDYMmgjj_n)
 
 ### Books/Blogs
 
-- [Deep Learning](https://www.deeplearningbook.org/) by Ian Goodfellow, Yoshua Bengio, and Aaron Courville
+- [Deep Learning by Ian Goodfellow, Yoshua Bengio, and Aaron Courville](https://www.deeplearningbook.org/)
 - [Deep Learning for Coders with Fastai and PyTorch: AI Applications Without a PhD](https://course.fast.ai/Resources/book.html)
 - [Foundations of Large Language Models](https://arxiv.org/pdf/2501.09223)
 - [What Is ChatGPT Doing … and Why Does It Work?](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/)
 - [The little book of deep learning](https://fleuret.org/public/lbdl.pdf)
 - [The Illustrated Stable Diffusion](https://jalammar.github.io/illustrated-stable-diffusion/)
-- [Introduction to Deep Learning](https://sebastianraschka.com/blog/2021/dl-course.html) by Sebastian Raschka
+- [Introduction to Deep Learning by Sebastian Raschka](https://sebastianraschka.com/blog/2021/dl-course.html)
 - [Foundations of Machine Learning](https://cs.nyu.edu/~mohri/mlbook/)
 - [The Annotated Transformer](https://nlp.seas.harvard.edu/annotated-transformer/)
 - [Deep Learning](https://github.com/adam-maj/deep-learning?tab=readme-ov-file)
@@ -70,7 +70,7 @@
 - [Prompt Engineering Guide](https://www.promptingguide.ai/)
 - [The Scaling Hypothesis](https://gwern.net/scaling-hypothesis)
 - [Building LLM applications for production](https://huyenchip.com/2023/04/11/llm-engineering.html)
-- [Neural networks](http://neuralnetworksanddeeplearning.com/about.html) by Michael Nielsen
+- [Neural networks by Michael Nielsen](http://neuralnetworksanddeeplearning.com/about.html)
 - [How Large Language Models work](https://medium.com/data-science-at-microsoft/how-large-language-models-work-91c362f5b78f)
 - [Overview of Large Language Models](https://aman.ai/primers/ai/LLM/#embeddings)
 - [Brex's Prompt Engineering Guide](https://github.com/brexhq/prompt-engineering)
@@ -88,13 +88,13 @@
 
 - [Neural Networks: Zero to Hero](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ)
 - [Deep Learning for Coders with Fastai and PyTorch: AI Applications Without a PhD](https://course.fast.ai/Resources/book.html)
-- [Machine Learning and Deep Learning](https://www.youtube.com/playlist?list=PLTKMiZHVd_2L0m9dFBET6QwAdb_bvV946) by Sebastian Raschka
+- [Machine Learning and Deep Learning by Sebastian Raschka](https://www.youtube.com/playlist?list=PLTKMiZHVd_2L0m9dFBET6QwAdb_bvV946)
 - [Tensorflow tutorials](https://www.tensorflow.org/tutorials)
 - [Tutorial and Workshop Recordings for LLMs](https://www.youtube.com/playlist?list=PLTKMiZHVd_2JIjurF5SJvEcPQDzJuqR__)
 - [Papers with code](https://paperswithcode.com/sota)
 - [Attention in Transformers: Concepts and Code in PyTorch](https://www.deeplearning.ai/short-courses/attention-in-transformers-concepts-and-code-in-pytorch/)
 - [How Transformer LLMs Work](https://www.deeplearning.ai/short-courses/how-transformer-llms-work/)
-- [Pytorch tutorials](https://www.youtube.com/playlist?list=PLhhyoLH6IjfxeoooqP9rhU3HJIAVAJ3Vz) by Aladdin Persson
+- [Pytorch tutorials by Aladdin Persson](https://www.youtube.com/playlist?list=PLhhyoLH6IjfxeoooqP9rhU3HJIAVAJ3Vz)
 - [TensorFlow 2.0 Complete Course](https://www.youtube.com/watch?v=tPYj3fFJGjk)
 - [Tutorials from freeCodeCamp.org](https://www.youtube.com/@freecodecamp/playlists)
 - [Machine Learning in C](https://www.youtube.com/playlist?list=PLpM-Dvs8t0VZPZKggcql-MmjaBdZKeDMw)
@@ -116,7 +116,7 @@
 ### Courses
 
 - [Machine Learning and Statistics](https://www.youtube.com/playlist?list=PLTKMiZHVd_2KyGirGEvKlniaWeLOHhUF3)
-- [Machine Learning](https://www.youtube.com/watch?v=Gv9_4yMHFhI&list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF) by Josh Starmer
+- [Machine Learning by Josh Starmer](https://www.youtube.com/watch?v=Gv9_4yMHFhI&list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF)
 - [Applied Machine Learning (Cornell Tech)](https://www.youtube.com/playlist?list=PL2UML_KCiC0UlY7iCQDSiGDMovaupqc83)
 - [Stanford CS229: Machine Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)
 - [Visual explanations of core machine learning concepts](https://mlu-explain.github.io/)
@@ -131,9 +131,9 @@
 - [CS50's Introduction to Artificial Intelligence with Python](https://www.youtube.com/playlist?list=PLhQjrBD2T381PopUTYtMSstgk-hsTGkVm)
 - [MIT 6.034 Artificial Intelligence](https://www.youtube.com/playlist?list=PLUl4u3cNGP63gFHB6xb-kVBiQHYe_4hSi)
 - [Machine Learning by IIT Madras](https://www.youtube.com/playlist?list=PLyqSpQzTE6M-zd14rp6xUK-uxQDvXARL-)
-- [General Machine Learning](https://www.youtube.com/playlist?list=PL1v8zpldgH3pdP0S8WTmL5tKgPSZb-rME) by Yannic Kilcher
-- [Bayes' Classifier](https://www.youtube.com/playlist?list=PLFXza2AmUJa-paMf8KW-JgsAfWIpVNU6f) by Pratik Jain
-- [Pattern Recognition](https://www.youtube.com/playlist?list=PLFXza2AmUJa-j_R3A08opF3jVMqnjK6nS) by Pratik Jain
+- [General Machine Learning by Yannic Kilcher](https://www.youtube.com/playlist?list=PL1v8zpldgH3pdP0S8WTmL5tKgPSZb-rME)
+- [Bayes' Classifier by Pratik Jain](https://www.youtube.com/playlist?list=PLFXza2AmUJa-paMf8KW-JgsAfWIpVNU6f)
+- [Pattern Recognition by Pratik Jain](https://www.youtube.com/playlist?list=PLFXza2AmUJa-j_R3A08opF3jVMqnjK6nS)
 
 ## Reinforcement Learning
 
@@ -142,11 +142,11 @@
 - [Deep Reinforcement Learning UC Berkeley 2023](https://www.youtube.com/playlist?list=PL_iWQOsE6TfVYGEGiAOMaOzzv41Jfm_Ps)
 - [Deep Reinforcement Learning UC Berkeley 2021](https://www.youtube.com/playlist?list=PL_iWQOsE6TfXxKgI1GgyV1B_Xa0DxE5eH)
 - [Stanford CS234 Reinforcement Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rN4wG6Nk6sNpTEbuOSosZdX)
-- [Reinforcement Learning](https://www.youtube.com/playlist?list=PLMrJAkhIeNNQe1JXNvaFvURxGY4gE9k74) by Steve Brunton
+- [Reinforcement Learning by Steve Brunton](https://www.youtube.com/playlist?list=PLMrJAkhIeNNQe1JXNvaFvURxGY4gE9k74)
 - [Deep Reinforcement Learning Course](https://huggingface.co/learn/deep-rl-course/unit0/introduction)
 - [Artificial Intelligence Search Methods For Problem Solving](https://www.youtube.com/playlist?list=PLyqSpQzTE6M8N9lDWllq6NqB5dmpy6gtc)
 - [Deep Reinforcement Learning UC Berkeley 2020](https://www.youtube.com/playlist?list=PL_iWQOsE6TfURIIhCrlt-wj9ByIVpbfGc)
-- [Reinforcement Learning](https://www.youtube.com/playlist?list=PL1v8zpldgH3rJk6UKP_npByDuE7v1WSdt) by Yannic Kilcher
+- [Reinforcement Learning by Yannic Kilcher](https://www.youtube.com/playlist?list=PL1v8zpldgH3rJk6UKP_npByDuE7v1WSdt)
 - [Reinforcement Learning 101](https://www.youtube.com/playlist?list=PLTl9hO2Oobd9kS--NgVz0EPNyEmygV1Ha)
 - [Stanford CS234: Reinforcement Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u)
 - [Deep Reinforcement Learning RAIL](https://www.youtube.com/playlist?list=PL_iWQOsE6TfX7MaC6C3HcdOf1g337dlC9)
@@ -156,15 +156,15 @@
 - [Spinning Up by OpenAI](https://spinningup.openai.com/en/latest/user/introduction.html)
 - [RLHF: Reinforcement Learning from Human Feedback](https://huyenchip.com/2023/05/02/rlhf.html)
 - [Algorithms for Reinforcement Learning](https://sites.ualberta.ca/~szepesva/papers/RLAlgsInMDPs-lecture.pdf)
-- [Reinforcement Learning](https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf) by Richard S. Sutton and Andrew G. Barto
+- [Reinforcement Learning by Richard S. Sutton and Andrew G. Barto](https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf)
 
 ## Calculus and Optimization
 
-- [Calculus Visualized](https://www.youtube.com/watch?v=MO-AExWdl4Q) - by Dennis F Davis
+- [Calculus Visualized by Dennis F Davis](https://www.youtube.com/watch?v=MO-AExWdl4Q)
 - [Foundations for Machine Learning](https://www.youtube.com/playlist?list=PLPTV0NXA_ZSiLI0ZfZYbHM2FPHKIuMW6K)
 - [MIT 18.S096 Matrix Calculus For Machine Learning And Beyond](https://www.youtube.com/playlist?list=PLUl4u3cNGP62EaLLH92E_VCN4izBKK6OE)
 - [Optimization Theory and Algorithms](https://www.youtube.com/playlist?list=PLyqSpQzTE6M8XNc8SxMLbUxdR7lDSuIGw)
-- [Essence of calculus](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr) by 3blue1brown
+- [Essence of calculus by 3blue1brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
 - [The Matrix Calculus You Need For Deep Learning](https://explained.ai/matrix-calculus/)
 - [Matrix Calculus](https://www.youtube.com/playlist?list=PLhcN-s3_Z7-YS6ltpJhjwqvHO1TYDbiZv)
 - [Vector Calculus](https://www.youtube.com/watch?v=qUseabHb6Vk&list=PLkZjai-2JcxnYmkg6fpzz4WFumGVl7MOa)
@@ -187,12 +187,12 @@
 
 ## Linear Algebra
 
-- [Linear Algebra and Matrix Theory](https://www.youtube.com/playlist?list=PLFXza2AmUJa8fivKfjN6QjLsEl8dlM9Wu) by Pratik Jain
-- [Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) by 3Blue1Brown
+- [Linear Algebra and Matrix Theory by Pratik Jain](https://www.youtube.com/playlist?list=PLFXza2AmUJa8fivKfjN6QjLsEl8dlM9Wu)
+- [Linear Algebra by 3Blue1Brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 - [Interactive Linear Algebra](https://personal.math.ubc.ca/~tbjw/ila/index.html)
 - [Applied Linear Algebra](https://www.youtube.com/playlist?list=PLyqSpQzTE6M912cneV79Cqsj88E3VBfxt)
 - [MIT 18.06 Linear Algebra](https://www.youtube.com/playlist?list=PLE7DDD91010BC51F8)
-- [Linear Algebra](https://www.youtube.com/playlist?list=PLHXZ9OQGMqxfUl0tcqPNTJsb7R6BqSLo6) by Dr. Trefor Bazett
+- [Linear Algebra by Dr. Trefor Bazett](https://www.youtube.com/playlist?list=PLHXZ9OQGMqxfUl0tcqPNTJsb7R6BqSLo6)
 - [The Matrix Cookbook](https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf)
 - [Matrix Algebra for Engineers](https://www.youtube.com/playlist?list=PLkZjai-2Jcxlg-Z1roB0pUwFU-P58tvOx)
 - [Matrix Theory](https://www.youtube.com/playlist?list=PLbMVogVj5nJQnzk6Sn9o6RTpu4Evx0LOT)
