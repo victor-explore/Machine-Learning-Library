@@ -209,3 +209,7 @@
 ## Miscellaneous
 
 - [GPU Programming](https://www.youtube.com/playlist?list=PL5XwKDZZlwaY7t0M5OLprpkJUIrF8Lc9j)
+
+## Conclusion
+
+I hope you find this list useful. If you want to join the community, where thousands of learners are mastering AI, join the [Discord server](https://discord.com/invite/QHAbprqQme).
